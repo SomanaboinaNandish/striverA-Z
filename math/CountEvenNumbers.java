@@ -1,3 +1,4 @@
+package math;
 public class CountEvenNumbers {
     public static void main(String[] args) {
         int[] arr = {5, 8, 12, 3, 7, 6, 10};
